@@ -1,2 +1,2 @@
-def opposite(value):
+def oppositeCalc(value):
     return -value

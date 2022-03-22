@@ -1,6 +1,6 @@
 
-from py import opposite
+from opposite import oppositeCalc
 
 
 def test_opposite():
-    print(opposite.oppositeCalc(-5))
+    print(oppositeCalc(-5))
